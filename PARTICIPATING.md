@@ -2,7 +2,7 @@
 
 There are two main ways you can contribute to this project on GitHub: **forking the repository** and **submitting an issue**. Whether you want to suggest a change or share an idea, your input is valuable!
 
-## Option 1: Forking the Repository This is a test from Katherine Spivey. Huzzah!
+## Option 1: Forking the Repository Huzzah! Huzzah! 
 
 Forking allows you to make direct contributions to the project by editing files, such as this `.MD` file. While it may seem complex at first, hopefully this guide makes it easier. We will do our best to continue improving these instructions.
 
